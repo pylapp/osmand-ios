@@ -1,3 +1,15 @@
+Disclaimer
+==========
+
+( ˶°ㅁ°) !! **This is a fork of [osmandapp/OsmAnd-iOS](https://github.com/osmandapp/OsmAnd-iOS)**
+
+The aim of this project is to submit evolutions.
+This is not the official repository of the app.
+You should not submit bug reports, issues or pull requests to this fork.
+
+Last constributions from here:
+- Improve french localizables ([#3813](https://github.com/osmandapp/OsmAnd-iOS/pull/3813))
+
 OsmAnd-ios
 ==========
 [![OsmAndMaps Archive](https://github.com/osmandapp/OsmAnd-iOS/actions/workflows/xcode-build.yml/badge.svg)](https://github.com/osmandapp/OsmAnd-iOS/actions/workflows/xcode-build.yml)
